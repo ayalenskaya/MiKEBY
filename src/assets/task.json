@@ -1,0 +1,11 @@
+{
+    "title": "Choose the right answer",
+    "subtitle": "Which shape shows thirds",
+    "image": "src/assets/task_img.png", 
+    "correctAnswer": "1",
+    "options": [
+      { "id": "1", "text": "A" },
+      { "id": "2", "text": "B" },
+      { "id": "3", "text": "C" }
+    ]
+  }
